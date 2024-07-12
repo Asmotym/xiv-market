@@ -1,0 +1,11 @@
+{
+    "name": "XIV Market",
+    "description": "A market data viwer in realtime",
+    "repository": "https://github.com/Asmotym/xiv-market",
+    "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/main/public/node.svg",
+    "keywords": [
+        "node",
+        "heroku"
+    ],
+    "image": "heroku/nodejs"
+}
